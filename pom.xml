@@ -11,7 +11,7 @@
 
 	<groupId>tn.m104.rh</groupId>
 	<artifactId>school</artifactId>
-	<version>1.0.0-snapshots</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>school</name>
 	<description>school</description>
 
